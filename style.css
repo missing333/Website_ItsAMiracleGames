@@ -227,7 +227,6 @@ header ul li ul li a {
   color: var(--color-dark);
   padding: 0 1.5em;
   padding-top: 125px;
-  padding-bottom: 150px;
   z-index: 1;
 }
 
@@ -240,7 +239,7 @@ header ul li ul li a {
   clip-path: polygon(0 0, 100% 10vw, 100% 100%, 0 calc(100% - 10vw));
   justify-content: center;
   background: var(--color-light);
-  padding-bottom: 150px;
+  padding: 3.5em 1.5em;
 }
 
 #section-b li:before {
@@ -261,7 +260,7 @@ header ul li ul li a {
   z-index: 999;
 }
 
-#section-b img {
+#section-b .cardImg {
   border-radius: 15px 15px 0 0;
 }
 
@@ -315,7 +314,7 @@ header ul li ul li a {
 }
 
 #section-d .box {
-  padding: 100px 50px;
+  padding: 3.5em 1.5em;
   color: var(--color-dark);
   background: #FFF;
   clip-path: polygon(0 0, 100% 10vw, 100% 100%, 0 100%);

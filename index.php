@@ -65,11 +65,11 @@
         <section id="section-b" class="grid">
           <ul id="games">
             <li id="Genesis">
-              <a href="#">
+              <a href="genesis.php">
                 <div class="card">
-                  <img src="https://images.pexels.com/photos/122427/roll-the-dice-craps-board-game-points-122427.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" alt="">
+                  <img class="cardImg" src="Art/Layout_Start.jpg" alt="">
                   <div class="card-content">
-                    <h3 class="card-title">Genesis</h3>
+                    <h3 class="card-title">In The Beginning</h3>
                     <p class="card-description">Build the world in 7 days</p>
                     <p>
                       The universe is a formless void! It is up to you to align fire, air, earth, and water within 7 days, while The Enemy vows to stop you.
@@ -79,9 +79,9 @@
               </a>
             </li>
             <li id="AngelAcademy">
-              <a href="#">
+              <a href="angelacademy.php">
                 <div class="card">
-                  <img src="https://images.pexels.com/photos/163064/play-stone-network-networked-interactive-163064.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="">
+                  <img class="cardImg" src="https://images.pexels.com/photos/163064/play-stone-network-networked-interactive-163064.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="">
                   <div class="card-content">
                     <h3 class="card-title">Angel Academy</h3>
                     <p class="card-description">Everything is on the line</p>
@@ -95,7 +95,7 @@
             <li id="Game3">
               <a href="#">
                 <div class="card">
-                  <img src="https://images.pexels.com/photos/278912/pexels-photo-278912.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" alt="">
+                  <img class="cardImg" src="https://images.pexels.com/photos/278912/pexels-photo-278912.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" alt="">
                   <div class="card-content">
                     <h3 class="card-title">Game 3</h3>
                     <p class="card-description">Explore and collect</p>

@@ -31,7 +31,7 @@
     <!--  Section A - Title  -->
     <section id="section-a" class="grid">
       <div class="content-wrap">
-        <h2 class="content-title">Genesis</h2>
+        <h2 class="content-title">In The Beginning</h2>
         <p>
           In the beginning, there was a formless expanse of cards.  You are a spirit, who must absorb the powers of Air, Earth, Fire, and Water to create Order from the Chaos in 7 turns.  Only then may you rest.
         </p>
@@ -42,50 +42,10 @@
 
     <!--  Section B - Game Images  -->
     <section id="section-b" class="grid">
-      <ul id="games">
-        <li id="Genesis">
-          <a href="#">
-            <div class="card">
-              <img src="https://images.pexels.com/photos/122427/roll-the-dice-craps-board-game-points-122427.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" alt="">
-              <div class="card-content">
-                <h3 class="card-title">Genesis</h3>
-                <p class="card-description">Build the world in 7 days</p>
-                <p>
-                  The universe is a formless void! It is up to you to align fire, air, earth, and water within 7 days, while The Enemy vows to stop you.
-                </p>
-              </div>
-            </div>
-          </a>
-        </li>
-        <li id="AngelAcademy">
-          <a href="#">
-            <div class="card">
-              <img src="https://images.pexels.com/photos/163064/play-stone-network-networked-interactive-163064.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="">
-              <div class="card-content">
-                <h3 class="card-title">Angel Academy</h3>
-                <p class="card-description">Everything is on the line</p>
-                <p>
-                  You are taking final exams to become a full-fledged Guardian Angel! If you can save one soul with the help of your friends, you pass.
-                </p>
-              </div>
-            </div>
-          </a>
-        </li>
-        <li id="Game3">
-          <a href="#">
-            <div class="card">
-              <img src="https://images.pexels.com/photos/278912/pexels-photo-278912.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" alt="">
-              <div class="card-content">
-                <h3 class="card-title">Game 3</h3>
-                <p class="card-description">Explore and collect</p>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia at recusandae tempora nesciunt, tenetur est dolor reprehenderit.
-                </p>
-              </div>
-            </div>
-          </a>
-        </li>
-      </ul>
+      <div class="content-wrap">
+        <h2 class="content-title">Setup</h2><br>
+        <img src="Art\Layout_Start.jpg" alt="Starting Layout">
+      </div>
     </section>
 
 
@@ -94,15 +54,20 @@
     <!--section D - Rules/OverView/How to Play  -->
     <section id="section-d" class="grid">
       <div id="Contact" class="box">
-        <h2 class="content-title">Rules/OverView/How to Play</h2>
-        <p>
+        <h2 class="content-title">How to Play</h2>
+
+        <br>
           Take 12 actions, then the enemy moves to steal your elements.
           <p>Actions:
             <br>-Move (not diagonal)
             <br>-Reveal an Element
             <br>-Pick up an Element to gain it's power
-            <br>-Place an Element from your hand into an empty space
+            <br>-Swap an Element from your hand onto a space
           </p>
+          <br>
+          <h3>Goal</h3>
+          <p>Arrange the Element cards into 3x3 grids, like so:</p>
+          <img src="Art\Layout_End.jpg" alt="">
 
 
       </div>
