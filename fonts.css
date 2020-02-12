@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'uglyquaregular';
+    src: url('UglyQua-webfont.eot');
+    src: url('UglyQua-webfont.eot?#iefix') format('embedded-opentype'),
+         url('UglyQua-webfont.woff2') format('woff2'),
+         url('UglyQua-webfont.woff') format('woff'),
+         url('UglyQua-webfont.ttf') format('truetype'),
+         url('UglyQua-webfont.svg#uglyquaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'aaarghnormal';
+    src: url('Aaargh-webfont.eot');
+    src: url('Aaargh-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Aaargh-webfont.woff2') format('woff2'),
+         url('Aaargh-webfont.woff') format('woff'),
+         url('Aaargh-webfont.ttf') format('truetype'),
+         url('Aaargh-webfont.svg#aaarghnormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
