@@ -2,11 +2,11 @@
   <head>
 	<meta http-equiv="Content-Type" content="text/html">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>VirtueGrow</title>
+	<title>It's A Miracle Games</title>
 
 	<link href='https://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet">
-	<link rel="shortcut icon" href="LogoFavicon32.png" type="image/x-icon">
+	<link rel="shortcut icon" href="Art\Logos\IAMG logo.png" type="image/x-icon">
 	<link href="style.css" rel="stylesheet">
 
 	<script type="text/javascript" src="jquery-2.1.4.js"></script>
@@ -65,7 +65,7 @@
         <section id="section-b" class="grid">
           <ul id="games">
             <li id="Genesis">
-              <a href="genesis.php">
+              <a href="inthebeginning.php">
                 <div class="card">
                   <img class="cardImg" src="Art/Layout_Start.jpg" alt="">
                   <div class="card-content">
@@ -128,8 +128,8 @@
             <p>
               Feel free to message us with feedback or comments!
             </p>
-            <p><a href="mailto:contact@itsamiraclegames.com">
-                contact@itsamiraclegames.com
+            <p><a href="mailto:itsamiraclegames@gmail.com">
+                itsamiraclegames@gmail.com
               </a>
             </p>
           </div>

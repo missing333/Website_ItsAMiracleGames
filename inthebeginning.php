@@ -44,7 +44,7 @@
     <section id="section-b" class="grid">
       <div class="content-wrap">
         <h2 class="content-title">Setup</h2><br>
-        <img src="Art\Layout_Start.jpg" alt="Starting Layout">
+        <img src="Art\In The Beginning\Layout_Start.jpg" alt="Starting Layout">
       </div>
     </section>
 
@@ -67,7 +67,7 @@
           <br>
           <h3>Goal</h3>
           <p>Arrange the Element cards into 3x3 grids, like so:</p>
-          <img src="Art\Layout_End.jpg" alt="">
+          <img src="Art\In The Beginning\Layout_End.jpg" alt="">
 
 
       </div>
