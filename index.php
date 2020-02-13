@@ -67,7 +67,7 @@
             <li id="Genesis">
               <a href="inthebeginning.php">
                 <div class="card">
-                  <img class="cardImg" src="Art/Layout_Start.jpg" alt="">
+                  <img class="cardImg" src="Art\In The Beginning\Layout_Start.jpg" alt="">
                   <div class="card-content">
                     <h3 class="card-title">In The Beginning</h3>
                     <p class="card-description">Build the world in 7 days</p>
@@ -81,7 +81,7 @@
             <li id="AngelAcademy">
               <a href="angelacademy.php">
                 <div class="card">
-                  <img class="cardImg" src="https://images.pexels.com/photos/163064/play-stone-network-networked-interactive-163064.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="">
+                  <img class="cardImg" src="Art\Angel Academy\Starting Setup for 3.png" alt="">
                   <div class="card-content">
                     <h3 class="card-title">Angel Academy</h3>
                     <p class="card-description">Everything is on the line</p>
