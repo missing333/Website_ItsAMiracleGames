@@ -19,7 +19,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   color: #fff;
   font-size: 1.1em;
-  line-height: 1.5;
   text-align: center;
 }
 
@@ -48,7 +47,6 @@ h1 {
 
 h2 {
   font-size: 25px;
-  line-height: 19px;
   text-transform: uppercase;
 }
 
@@ -225,37 +223,25 @@ header ul li ul li a {
 #section-a {
   background: #FFF;
   color: var(--color-dark);
-  padding: 0 1.5em;
-  padding-top: 125px;
+  padding: 3em 1.5em;
   z-index: 1;
 }
 
 /*  Section B  */
 #section-b {
-  padding: 1em;
   text-decoration: none;
   display: flex;
   overflow-y: visible;
-  clip-path: polygon(0 0, 100% 10vw, 100% 100%, 0 calc(100% - 10vw));
+  clip-path: polygon(0 0, 100% 8vw, 100% 100%, 0 calc(100% - 8vw));
   justify-content: center;
-  background: var(--color-light);
-  padding: 3.5em 1.5em;
-}
-
-#section-b li:before {
-  content: '';
-  display: block;
-  position: relative;
-  width: 0;
-  height: 1em;
-  margin-top: -1em;
+  background: #EEE;
+  padding: 3.5em 1.5em 10em 1.5em;
 }
 
 #section-b .card {
   box-shadow: 0 4px 8px 5px rgba(0, 0, 0, 0.2), -2px -6px 20px 0 rgba(0, 0, 0, 0.19);
   transition: all .2s ease-in-out;
   border-radius: 15px;
-  max-width: 350px;
   margin-top: 60px;
   z-index: 999;
 }
@@ -281,9 +267,10 @@ header ul li ul li a {
 #section-b li {
   margin: 1em;
   color: var(--color-dark);
+  max-width: 350px;
 }
 
-.card-content {
+#section-b .card-content {
   padding: 1.5em .8em;
   background: white;
   color: var(--color-dark);
@@ -296,7 +283,7 @@ header ul li ul li a {
   font-size: 1.4em;
 }
 
-.card-description {
+#section-b .card-description {
   color: var(--color-primary);
   padding: .1em;
   font-size: .8em;
@@ -305,7 +292,7 @@ header ul li ul li a {
   margin-bottom: 15px;
 }
 
-.card-content p {
+#section-b .card-content p {
   line-height: 1.2em;
 }
 
@@ -317,10 +304,10 @@ header ul li ul li a {
 }
 
 #section-d .box {
-  padding: 3.5em 1.5em;
+  padding: 3.5em 5.5em;
   color: var(--color-dark);
   background: #FFF;
-  clip-path: polygon(0 0, 100% 10vw, 100% 100%, 0 100%);
+  clip-path: polygon(0 0, 100% 8vw, 100% 100%, 0 100%);
   overflow: hidden;
 }
 
@@ -366,14 +353,6 @@ header ul li ul li a {
     padding-top: 0;
   }
 
-  #section-b {
-    display: block;
-    padding: 2em;
-    overflow-y: visible;
-    padding-top: 170px;
-    padding-bottom: 220px;
-  }
-
   .content-wrap,
   #section-b ul {
     grid-column: 2/4;
@@ -393,8 +372,6 @@ header ul li ul li a {
     margin-bottom: 0px;
     max-width: 750px;
   }
-
-  #section-d:last-child {}
 
   .box,
   #footer div {

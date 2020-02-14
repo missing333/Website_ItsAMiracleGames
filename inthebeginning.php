@@ -30,7 +30,7 @@
 
     <!--  Section A - Title  -->
     <section id="section-a" class="grid">
-      <div class="content-wrap">
+      <div class="content-wrap" style="margin-top:100px">
         <h2 class="content-title">In The Beginning</h2>
         <p>
           In the beginning, there was a formless expanse of cards.  You are a spirit, who must absorb the powers of Air, Earth, Fire, and Water to create Order from the Chaos in 7 turns.  Only then may you rest.

@@ -29,8 +29,8 @@
 
 
     <!--  Section A - Title  -->
-    <section id="section-a" class="grid">
-      <div class="content-wrap">
+    <section id="section-a" class="grid" >
+      <div class="content-wrap" style="margin-top:100px">
         <h2 class="content-title">Angel Academy</h2>
         <p>
           You are a guardian angel in training.  Your final exam: a group project to save one soul.  Will you pass?
@@ -55,14 +55,14 @@
     <section id="section-d" class="grid">
       <div id="Contact" class="box">
         <h2 class="content-title">How to Play</h2>
-
         <br>
-          Take 2 actions, then reveal a Sin card.
-          <br>Some Sin cards will hinder you, others will add Sin to the Soul Deck.
-          <br><br>
+        Each turn, Sin cards will be added to the Soul Deck.  Use your actions to add Virtue Cards to the Soul Deck.  Whoever added more at the end of the game claims this Soul and wins.
+        <br><br><br>
+          Each turn, each player takes 2 actions, then reveals a Sin card.
           <p>Actions:
-          <br>-Study (place a card from your hand into your Bookshelf)
-          <br>-Homework (use an ability from a book in your Bookshelf)
+            <br>-Study: place a card from your hand into play.  It becomes a 'Book'.
+            <br>-Homework: perform an action on a Book in play.
+          </p>
         </div>
 
       <div id="About" class="box">
