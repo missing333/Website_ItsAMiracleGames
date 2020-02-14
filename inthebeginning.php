@@ -12,7 +12,7 @@
   <!--link href="https://fonts.googleapis.com/css?family=Julius+Sans+One|Special+Elite&display=swap" rel="stylesheet"-->
   <link href="https://fonts.googleapis.com/css?family=IM+Fell+English+SC|Julius+Sans+One|Major+Mono+Display|Megrim|Special+Elite&display=swap" rel="stylesheet">
 
-  	<script type="text/javascript" src="jscript.js"></script>
+  <script type="text/javascript" src="jscript.js"></script>
 </head>
 
 
@@ -52,8 +52,7 @@
 
 
     <!--section D - Rules/OverView/How to Play  -->
-    <section id="section-d" class="grid">
-      <div id="Contact" class="box">
+      <div id="Overview" class="grid">
         <h2 class="content-title">How to Play</h2>
 
         <br>
@@ -72,7 +71,7 @@
 
       </div>
 
-      <div id="About" class="box">
+      <div id="Store" class="grid">
         <h2 class="content-title">
           Where to buy
         </h2>
@@ -80,7 +79,7 @@
           Store link
         </p>
       </div>
-    </section>
+
 
 
 

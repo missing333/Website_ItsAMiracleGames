@@ -41,7 +41,7 @@
 
 
     <!--  Section B - Game Images  -->
-    <section id="section-b" class="grid">
+    <section id="section-b" class="flex">
       <div class="content-wrap">
         <h2 class="content-title">Setup</h2><br>
         <img src="Art\Angel Academy\Starting Setup for 3.png" alt="Starting Layout">
@@ -52,11 +52,10 @@
 
 
     <!--section D - Rules/OverView/How to Play  -->
-    <section id="section-d" class="grid">
-      <div id="Contact" class="box">
+      <div id="Overview" class="box">
         <h2 class="content-title">How to Play</h2>
-        <br>
-        Each turn, Sin cards will be added to the Soul Deck.  Use your actions to add Virtue Cards to the Soul Deck.  Whoever added more at the end of the game claims this Soul and wins.
+        <br>Each turn, Sin cards will be added to the Soul Deck.  Use your actions to add Virtue Cards to the Soul Deck.  
+        <br>Whoever added more at the end of the game claims this Soul and wins.
         <br><br><br>
           Each turn, each player takes 2 actions, then reveals a Sin card.
           <p>Actions:
@@ -65,7 +64,7 @@
           </p>
         </div>
 
-      <div id="About" class="box">
+      <div id="Store" class="box">
         <h2 class="content-title">
           Where to buy
         </h2>
@@ -73,7 +72,6 @@
           Store link
         </p>
       </div>
-    </section>
 
 
 
