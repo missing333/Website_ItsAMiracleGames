@@ -384,6 +384,8 @@ clip-path: polygon(0 0, 100% 8vw, 100% 100%, 0 100%);
 
 }
 
+
+
 @media (min-width: 1200px) {
   #section-b {
       padding-top: 150px;
