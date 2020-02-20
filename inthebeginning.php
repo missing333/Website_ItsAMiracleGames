@@ -76,7 +76,7 @@
           Where to buy
         </h2>
         <p>
-          Store link
+          Coming Soon!
         </p>
       </div>
 

@@ -54,7 +54,7 @@
     <!--section D - Rules/OverView/How to Play  -->
       <div id="Overview" class="box">
         <h2 class="content-title">How to Play</h2>
-        <br>Each turn, Sin cards will be added to the Soul Deck.  Use your actions to add Virtue Cards to the Soul Deck.  
+        <br>Each turn, Sin cards will be added to the Soul Deck.  Use your actions to add Virtue Cards to the Soul Deck.
         <br>Whoever added more at the end of the game claims this Soul and wins.
         <br><br><br>
           Each turn, each player takes 2 actions, then reveals a Sin card.
@@ -69,7 +69,7 @@
           Where to buy
         </h2>
         <p>
-          Store link
+          Coming Soon!
         </p>
       </div>
 
