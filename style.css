@@ -238,7 +238,7 @@ header ul li ul li a {
   justify-content: center;
   background: #EEE;
   padding: 3.5em 1.5em 10em 1.5em;
-  z-index: 2;
+  z-index: 999;
 }
 
 #section-b .card {
@@ -246,7 +246,7 @@ header ul li ul li a {
   transition: all .2s ease-in-out;
   border-radius: 15px;
   margin-top: 60px;
-  z-index: 999;
+  z-index: 2;
 }
 
 #section-b .cardImg {
@@ -309,10 +309,12 @@ header ul li ul li a {
 
 #section-d .box {
   padding: 3.5em 5.5em;
+  padding-top: 5em;
   color: var(--color-dark);
   background: #FFF;
   clip-path: polygon(0 0, 100% 8vw, 100% 100%, 0 100%);
   overflow: hidden;
+  z-index: 100;  
 }
 
 #section-d .box:last-child {
