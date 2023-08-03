@@ -221,7 +221,7 @@ header ul li ul li a {
   opacity: 1;
 }
 
-/*  Section A  */
+/*  Section A - Goals  */
 #section-a {
   background: #FFF;
   color: var(--color-dark);
@@ -229,7 +229,7 @@ header ul li ul li a {
   z-index: 1;
 }
 
-/*  Section B  */
+/*  Section B - Games Cards*/
 #section-b {
   text-decoration: none;
   display: flex;
@@ -314,7 +314,7 @@ header ul li ul li a {
   background: #FFF;
   clip-path: polygon(0 0, 100% 8vw, 100% 100%, 0 100%);
   overflow: hidden;
-  z-index: 100;  
+  z-index: 100;
 }
 
 #section-d .box:last-child {
